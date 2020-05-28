@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693890596699",
+    "firebase_url": "https://sonerkaraevli-a9083.firebaseio.com",
+    "project_id": "sonerkaraevli-a9083",
+    "storage_bucket": "sonerkaraevli-a9083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693890596699:android:a72839c957e469c270647e",
+        "android_client_info": {
+          "package_name": "com.example.sonerkaraevli_firebase_flutterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693890596699-17oc0pl7i5rr7rlvokjnugva4bc1qseh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonerkaraevli_firebase_flutterproject",
+            "certificate_hash": "ba65c9def425e69f5dae97ab52b3a1265c9c8084"
+          }
+        },
+        {
+          "client_id": "693890596699-avh6a2h5pa4jm86runkm0h3k9vnlpfps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rDiyXbvaB2ci7J7rWQ3n62YoYqZphUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693890596699-avh6a2h5pa4jm86runkm0h3k9vnlpfps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
