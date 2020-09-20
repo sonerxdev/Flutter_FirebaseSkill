@@ -10,9 +10,8 @@
 
 
 ### Technologies I used
-
--Flutter
--Firebase
--Text recognition
+- Flutter
+- Firebase
+- Text recognition
 
 
